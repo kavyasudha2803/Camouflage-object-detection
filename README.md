@@ -129,7 +129,17 @@ Key features:
 ---
 
 ## 📂 Project Structure
+kavyasudha2803/
 
+├── .gitignore
+
+├── MIT License.txt
+
+├── README.md
+
+├── Requirements.txt
+
+└── segb2-COD_cleaned.ipyb
 
 ---
 
