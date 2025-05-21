@@ -1,0 +1,20 @@
+torch>=1.10
+torchvision>=0.11
+segformer
+transformers
+timm
+albumentations
+opencv-python
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
+
+segformer can be installed using:
+
+pip install git+https://github.com/NVIDIA/segformer.git
+
+If you’re using Hugging Face’s version:
+
+pip install transformers

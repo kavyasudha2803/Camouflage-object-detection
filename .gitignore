@@ -1,0 +1,23 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# Output & logs
+*.log
+*.pth
+*.ckpt
+*.onnx
+
+# Dataset folders (optional, large files)
+COD10K/
+NC4K/
