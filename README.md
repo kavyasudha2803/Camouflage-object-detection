@@ -133,10 +133,10 @@ Key features:
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](./MIT%20License.txt).  
+See the `MIT License.txt` file for details.
 
 ---
 
